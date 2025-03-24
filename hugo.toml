@@ -24,3 +24,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   images = ["images/onedaycomputer.png"]
 
   title = "One day i'm gonna be computer"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
