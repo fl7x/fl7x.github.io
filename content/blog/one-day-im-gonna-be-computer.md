@@ -3,8 +3,9 @@ title = "One day i'm gonna be computer"
 date = "2025-03-18"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
-    "markdown",
-    "syntax",
+    "bci",
+    "computers",
+    "ai",
 ]
 +++
 
